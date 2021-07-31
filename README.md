@@ -4,7 +4,7 @@ This repository contains the best articles and related material regarding DAOs (
 #### General
 - [ Governing Decentralized Complex Queries Through a DAO](https://arxiv.org/abs/2107.06790 " Governing Decentralized Complex Queries Through a DAO")
 - [Collective intelligence and the blockchain: Technology, communities and social experiments](https://arxiv.org/abs/2107.05527 "Collective intelligence and the blockchain: Technology, communities and social experiments")
-- [A Decision Model for Decentralized Autonomous Organization Platform Selection: Three Industry Case Studies](A Decision Model for Decentralized Autonomous Organization Platform Selection: Three Industry Case Studies "A Decision Model for Decentralized Autonomous Organization Platform Selection: Three Industry Case Studies")
+- [A Decision Model for Decentralized Autonomous Organization Platform Selection: Three Industry Case Studies](https://arxiv.org/abs/2107.14093 "A Decision Model for Decentralized Autonomous Organization Platform Selection: Three Industry Case Studies")
 - [From Technology to Society: An Overview of Blockchain-based DAO](https://arxiv.org/abs/2011.14940 "From Technology to Society: An Overview of Blockchain-based DAO")
 - [How Decentralized is the Governance of Blockchain-based Finance: Empirical Evidence from four Governance Token Distributions](https://arxiv.org/abs/2102.10096 "How Decentralized is the Governance of Blockchain-based Finance: Empirical Evidence from four Governance Token Distributions")
 - [A Systematic Literature Review on Blockchain Governance](https://arxiv.org/abs/2105.05460 "A Systematic Literature Review on Blockchain Governance")
